@@ -1,5 +1,5 @@
 /*
-Obstacle avoiding Robot
+Obstacle avoiding Robot using ultrasonic sensor
 */
 
 #include <NewPing.h>                    // library for ultrasonic sensor
